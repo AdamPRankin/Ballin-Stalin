@@ -1,0 +1,72 @@
+
+#myCarousel{
+	 margin-top: -50px;
+	 padding-bottom: 500px;
+	 width: 100%;
+}
+
+.carousel-caption { 
+	bottom:-95px;
+	position: absolute; 
+    left: auto;
+    right: auto;
+}
+
+
+#news {
+  background: url('https://s-media-cache-ak0.pinimg.com/736x/a0/25/0d/a0250dec614c2fa45794d3eb4adf83ea.jpg');
+  background-size: cover;
+}
+
+#bloodoath{
+background: url('http://api.ning.com/files/khjwjYAoFQ8-7RVLB0EnPaEucwDaNEupeAVfOM*8FPF*uK13A3h6I-wQ6RipXTF*-pR2mICLabhb5gDIQh8b-3jpe5DQMDWq/Pentagram_by_Charoncastor.jpg');
+background-size: cover;
+}
+
+#contact{
+background: url('https://s-media-cache-ak0.pinimg.com/736x/50/aa/53/50aa53807c8b1bb3328233361988003a.jpg');
+background-size: cover;
+}
+
+#stats{
+background: url('http://www.fireballdrinks.com/wp-content/uploads/2014/08/fb-with-flames.png');
+background-size: cover;
+}
+
+#profiles{
+background: url('http://cdn.mysitemyway.com/etc-mysitemyway/webtreats/assets/posts/995/full/deep-rusty-red-industrial-grunge-textures-5.jpg');
+background-size: cover;
+}
+
+#scrollin{
+position:fixed;
+}
+/*.jumbotron{
+background: url('');
+background-size: cover;
+} */
+
+#rcorners {
+    border-radius: 25px;
+    background: white;
+    padding: 20px 20px 20px 20px;
+}
+
+#redbutton{
+	color: 800020;
+}
+
+.jumbotron{
+    border-radius: 25px;
+    padding: 40px; 
+}
+
+#tablediv {
+	margin-left:0%; 
+    margin-right:15%;
+}
+
+
+
+
+
